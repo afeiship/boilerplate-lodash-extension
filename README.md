@@ -1,2 +1,2 @@
 # boilerplate-lodash-extension
-> Boilerplate for lodash extension.
+> boilerplate-lodash-extension-desc

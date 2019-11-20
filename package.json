@@ -1,12 +1,15 @@
 {
   "name": "boilerplate-lodash-extension",
   "version": "1.0.0",
-  "description": "Boilerplate for lodash extension.",
-  "homepage": "https://github.com/afeiship",
+  "description": "boilerplate-lodash-extension-desc",
+  "homepage": "https://github.com/afeiship/boilerplate-lodash-extension",
   "author": {
     "name": "afeiship",
     "email": "1290657123@qq.com"
   },
   "main": "dist/index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
 }
