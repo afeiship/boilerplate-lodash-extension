@@ -1,0 +1,12 @@
+{
+  "name": "boilerplate-lodash-extension",
+  "version": "1.0.0",
+  "description": "Boilerplate for lodash extension.",
+  "homepage": "https://github.com/afeiship",
+  "author": {
+    "name": "afeiship",
+    "email": "1290657123@qq.com"
+  },
+  "main": "dist/index.js",
+  "license": "MIT"
+}
